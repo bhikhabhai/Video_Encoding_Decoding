@@ -12,8 +12,6 @@ Before building and running this project, ensure you have the following installe
     Microsoft Visual Studio: Required for building the MFC application.
     MFC Framework: Ensure that your Visual Studio installation includes the MFC libraries.
     FFmpeg (Version 6.0 or later): FFmpeg is used for video decoding, watermarking, and encoding. Make sure FFmpeg is installed and configured properly.
-    OpenCV: Required for image and video frame manipulation (optional, if used for watermarking).
-    OpenSSL: Ensure OpenSSL is installed for cryptographic operations (optional, if needed).
     Windows SDK: Required for Windows-based system programming.
     CUDA Toolkit: Required for GPU acceleration. Install the appropriate version for your system.
     NVIDIA GPU with NVENC support: Ensure your system has a supported NVIDIA GPU for GPU-based encoding/decoding.
